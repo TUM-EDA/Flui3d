@@ -50,4 +50,4 @@ npm run build
 The built files can be hosted on any web server.
 
 **Backend:**
-For the backend, a JDK version >= 11 is recommended. You can build the WAR artifact and host it using Tomcat 11.
+For the backend, the newest JDK version is recommended. You can build the WAR artifact and host it using Tomcat 11.
