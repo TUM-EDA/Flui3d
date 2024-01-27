@@ -49,6 +49,4 @@ npm run build
 The built files can be hosted on any web server.
 
 **Backend:**
-In `index.jsp` you can change the tmp directory according to your need.
-
-For the backend, a JDK version >= 11 is recommended. You can built the WAR artifact and host it using Tomcat 11.
+For the backend, a JDK version >= 11 is recommended. You can build the WAR artifact and host it using Tomcat 11.
