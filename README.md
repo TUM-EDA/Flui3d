@@ -33,6 +33,7 @@ Download or clone this repository. The Frontend folder contains the source code 
 
 **Frontend:**
 Before building the code, you should change the value of `const postUrl = "https://to.your.backend"` in `Frontend/src/library/hardCodedValues.ts` at line 13 to your own backend's address. 
+
 **Project setup**
 ```  
 npm install  
