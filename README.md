@@ -1,3 +1,4 @@
+
 # Flui3d - Design Platform for 3D-Printed Microfluidic Devices
 **Flui3d's Software Design and Architecture**
 
@@ -28,6 +29,7 @@ The backend can be hosted using Tomcat.
 
 # Getting Started
 You can try Flui3d at https://flui3d.org. If you would like to further develop Flui3d or host Flui3d on your own server, please follow the instructions:
+
 **Get The Code**
 Download or clone this repository. The Frontend folder contains the source code for the frontend web app and the Backend folder contains the source code for the backend.
 
@@ -51,3 +53,9 @@ The built files can be hosted on any web server.
 
 **Backend:**
 For the backend, the newest JDK version is recommended. You can build the WAR artifact and host it using Tomcat 11.
+***
+
+### 🎉 If You Find **Flui3d** Helpful
+Please consider citing our work:
+
+Zhang, Y., Li, M., Tseng, TM. _et al._ Open-source interactive design platform for 3D-printed microfluidic devices. _Commun Eng_ **3**, 71 (2024). [https://doi.org/10.1038/s44172-024-00217-0](https://doi.org/10.1038/s44172-024-00217-0)
