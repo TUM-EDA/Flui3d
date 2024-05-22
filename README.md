@@ -74,4 +74,4 @@ Zhang, Y., Li, M., Tseng, TM. _et al._ Open-source interactive design platform f
 ```
 ***
 ### LICENSE
-Flui3d is open source and licensed under the [Apache License version 2.0](https://github.com/TUM-EDA/Flui3d/blob/main/README.md). Please note that we reserve the right to change the license at any time without notice.
+Flui3d is open source and licensed under the [Apache License version 2.0](https://github.com/TUM-EDA/Flui3d/blob/main/LICENSE). Please note that we reserve the right to change the license at any time without notice.
