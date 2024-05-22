@@ -59,3 +59,19 @@ For the backend, the newest JDK version is recommended. You can build the WAR ar
 Please consider citing our work:
 
 Zhang, Y., Li, M., Tseng, TM. _et al._ Open-source interactive design platform for 3D-printed microfluidic devices. _Commun Eng_ **3**, 71 (2024). [https://doi.org/10.1038/s44172-024-00217-0](https://doi.org/10.1038/s44172-024-00217-0)
+
+```
+@article{zhang2024open,
+  title={Open-source interactive design platform for 3D-printed microfluidic devices},
+  author={Zhang, Yushen and Li, Mengchu and Tseng, Tsun-Ming and Schlichtmann, Ulf},
+  journal={Communications Engineering},
+  volume={3},
+  number={1},
+  pages={71},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+```
+***
+### LICENSE
+Flui3d is open source and licensed under the [Apache License version 2.0](https://github.com/TUM-EDA/Flui3d/blob/main/README.md). Please note that we reserve the right to change the license at any time without notice.
